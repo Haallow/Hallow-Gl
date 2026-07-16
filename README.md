@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hallow-Gl 👋
 
-<!--
-**Hallow-Gl/Hallow-Gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year CS student building full-stack + AI projects.
 
-Here are some ideas to get you started:
+## 🔭 Currently Building
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### Coffee RAG Chatbot
+RAG pipeline (pgvector, cosine similarity) + Redis caching + intent detection.
+[Live Demo](link) · [Repo](link)
+
+## 🛠 Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+## 📫 Contact
+[LinkedIn] · [Email]
