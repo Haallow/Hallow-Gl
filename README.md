@@ -1,4 +1,4 @@
-# Hi, I'm Hallow-Gl 👋
+# Hi, I'm Haallow👋
 
 3rd-year CS student building full-stack + AI projects.
 
